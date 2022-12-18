@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Nov 14 19:50:22 2022
+# Process ID: 8984
+# Current directory: C:/Users/Taewoong/Desktop/HANDONG/2022-2/2_Digital_System_Design/2_Vivado/UserDef/Week12_PS2KBD_2/ip
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12544 C:\Users\Taewoong\Desktop\HANDONG\2022-2\2_Digital_System_Design\2_Vivado\UserDef\Week12_PS2KBD_2\ip\clk_core.dcp
+# Log file: C:/Users/Taewoong/Desktop/HANDONG/2022-2/2_Digital_System_Design/2_Vivado/UserDef/Week12_PS2KBD_2/ip/vivado.log
+# Journal file: C:/Users/Taewoong/Desktop/HANDONG/2022-2/2_Digital_System_Design/2_Vivado/UserDef/Week12_PS2KBD_2/ip\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_checkpoint C:/Users/Taewoong/Desktop/HANDONG/2022-2/2_Digital_System_Design/2_Vivado/UserDef/Week12_PS2KBD_2/ip/clk_core.dcp
